@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 :: ==================== 配置区域（请修改以下变量） ====================
-set REPO_URL=https://github.com/用户名/仓库名.git
+set REPO_URL=https://github.com/Light-the-dust/shiyanku.git
 :: 如果使用 SSH，请改为 git@github.com:用户名/仓库名.git
 
 set BRANCH=main
